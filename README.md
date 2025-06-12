@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">I'm a full-stack developer with 4 years of hands-on experience, known for resolving complex bugs across diverse tech stacks and languages.</h3>
+# 👋 Hi, I’m Aman Yadav – Full Stack Developer | Problem Solver | AI Explorer
+
+🎯 I'm a passionate full-stack developer with **4 years of hands-on experience**, known for solving complex bugs across diverse tech stacks like **Java, Python, Node.js, Spring Boot, Angular, React, and SQL**. I thrive in dynamic environments where performance, reliability, and innovation are key.
+
+---
+
+## 🚀 Current Focus
+
+🔭 **Working on:**  
+**Clinical Trial Management System** – A GenAI-powered platform helping biotech and pharma researchers streamline clinical trials through intelligent features like:
+
+- 📄 **Document Analysis:** Using Retrieval-Augmented Generation (RAG) with Mistral-7B and BERT for analyzing trial protocols, safety reports, and FDA guidelines.
+- 📊 **Wearable Data Dashboard:** Visualizes health data (heart rate, sleep, stress) for trial participants using dynamic CSV ingestion and Chart.js.
+- 🧠 **AI Recommendations:** Fine-tuned LLMs (Gemini & BERT) suggest safety measures, recruitment strategies, and compliance optimizations.
+- 🧬 **Smart Contract Integration:** Ensures data security and integrity for regulatory submissions.
+- ♻️ **Sustainability Tools:** AI modules predict material waste and environmental impact during clinical site construction.
+- 🧑‍⚕️ **Mental Health Support:** Integrated CBT-based AI therapist for trial participants, using real-time sentiment analysis.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav12345&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav12345" /> </p>
 
