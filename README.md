@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aman Yadav – Full Stack Developer | Problem Solver | AI Explorer
+# 👋 Hi, I’m Aman Yadav – Full Stack Developer | Problem Solver | AI Explorer | A Good Friend
 
 🎯 I'm a passionate full-stack developer with **4 years of hands-on experience**, known for solving complex bugs across diverse tech stacks like **Java, Python, Node.js, Spring Boot, Angular, React, and SQL**. I thrive in dynamic environments where performance, reliability, and innovation are key.
 
