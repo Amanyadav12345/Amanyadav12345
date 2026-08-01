@@ -102,30 +102,16 @@ A full hospital's worth of AI crammed into one platform. No big deal.
 
 ---
 
-### 📊 The Receipts
+### 💼 What I Bring
 
-<div align="center">
+| Area | What that looks like in practice |
+|---|---|
+| **Full-Stack Delivery** | Shipping end-to-end products — from database schema and API design to the front-end someone actually uses. |
+| **GenAI & RAG Systems** | Building retrieval pipelines and fine-tuned LLM workflows that turn messy documents into usable answers. |
+| **Cross-Platform** | Comfortable moving between web (React, Angular) and mobile (Flutter) without losing the thread. |
+| **Hard Problems** | The weird edge cases, the unfamiliar framework, the bug three sprints deep — that's the work I reach for. |
 
-<img src="https://komarev.com/ghpvc/?username=Amanyadav12345&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="profile views" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amanyadav12345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanyadav12345&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav12345&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav12345&hide_border=true&theme=tokyonight" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanyadav12345&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="activity graph" width="95%" />
-
-</div>
+Four years of shipping across web, mobile, and AI — and a habit of learning whatever the problem in front of me needs.
 
 ---
 
