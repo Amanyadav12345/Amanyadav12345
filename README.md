@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+break+things%2C+fix+things%2C+and+ship+things;Full+Stack+Developer+%C2%B7+4+years+deep;Java+%7C+Python+%7C+Node.js+%7C+React+%7C+GenAI;Bug-hunter+by+2am%2C+problem-solver+by+choice" alt="typing banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+break+things%2C+fix+things%2C+and+ship+things;Full+Stack+Developer+%C2%B7+5+years;Java+%7C+Python+%7C+Node.js+%7C+React+%7C+GenAI;Bug-hunter+by+2am%2C+problem-solver+by+choice" alt="typing banner" />
 
 # 👨‍💻 Aman Yadav
 
-**Full Stack Developer with 4 years of experience and an unhealthy obsession with solving bugs at 2am.**
+**Full Stack Developer with 5 years of experience and an unhealthy obsession with solving bugs at 2am.**
 
 </div>
 
@@ -19,7 +19,7 @@ If there's a complex problem, a weird edge case, or a framework nobody on the te
 ```js
 const aman = {
   role: "Full Stack Developer",
-  experience: "4 years",
+  experience: "5 years",
   focus: ["complex problems", "weird edge cases", "GenAI"],
   fuel: "☕ + 💻 = 🚀",
   motto: "It compiles. Ship it. (Then fix it.)"
